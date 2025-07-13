@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/0xleonz/updog/cmd"
+	"gitlab.com/0xleonz/updog/cmd"
 )
 
 func main() {

@@ -8,11 +8,11 @@ import (
 	"fmt"
 	"regexp"
 
-	"github.com/0xleonz/updog/internal/aur"
-	"github.com/0xleonz/updog/internal/cargo"
-	"github.com/0xleonz/updog/internal/pacman"
-	"github.com/0xleonz/updog/internal/pip"
-	"github.com/spf13/cobra"
+	"gitlab.com/0xleonz/updog/internal/aur"
+	"gitlab.com/0xleonz/updog/internal/cargo"
+	"gitlab.com/0xleonz/updog/internal/pacman"
+	"gitlab.com/0xleonz/updog/internal/pip"
+	"gitlab.com/spf13/cobra"
 )
 
 var (
