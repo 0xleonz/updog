@@ -12,7 +12,7 @@ import (
 	"gitlab.com/0xleonz/updog/internal/cargo"
 	"gitlab.com/0xleonz/updog/internal/pacman"
 	"gitlab.com/0xleonz/updog/internal/pip"
-	"gitlab.com/spf13/cobra"
+	"github.com/spf13/cobra"
 )
 
 var (
