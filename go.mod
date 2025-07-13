@@ -1,4 +1,4 @@
-module github.com/0xleonz/updog
+module gitlab.com/0xleonz/updog
 
 go 1.21
 
