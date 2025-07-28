@@ -21,3 +21,9 @@
 # Go workspace file
 go.work
 go.sum
+**/**doc.md
+
+# Añadido automáticamente desde template por gitz init
+info.yml
+nextCommit
+commitMessage.yml
